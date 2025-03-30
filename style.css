@@ -31,7 +31,7 @@ li{
 }
 li:hover{
     transform: scaleX(1.1);
-    background-color: aliceblue;
+    background-color: rgb(9, 130, 235);
     border-bottom: 2px solid black;
     cursor: pointer;
 }
